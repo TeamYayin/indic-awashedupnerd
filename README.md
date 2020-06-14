@@ -1,6 +1,6 @@
 # indic-awashedupnerd
 
-Depolyed on ![github pages](https://github.com/TeamYayin/indic-awashedupnerd/workflows/github%20pages/badge.svg)
+Live depolyment through ![github pages](https://github.com/TeamYayin/indic-awashedupnerd/workflows/github%20pages/badge.svg)
 
 Current Theme [LoveIt](https://hugoloveit.com/)
 
