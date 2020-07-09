@@ -53,7 +53,7 @@ enableGitInfo = true
       weight = 4
     [languages.en.params]
       # site description
-      description = "Opensource tools, blogging and hosting web content in Indo-Aryan and Dravidian languages"
+      description = "Learning opensource technologies for blogging and hosting web content in Indo-Aryan and Dravidian languages."
       # site keywords
       keywords = ["Langauge Blog", "Telugu", "Telugu Poetry", "Host websites in Indian languages", "Tamil", "Writing in Tamil", "Hindi", "Kannada", "Indian Poets", "Regional Writers"]
       # App icon config
@@ -99,14 +99,13 @@ enableGitInfo = true
           # title shown in home page (HTML format is supported)
           title = "Vidyaa Sarvasya Bhooshanam"
           # TODO - animates text displayed in home page after title
-          subtitle = "Mutlilingual learning skills blog that explore web development, blogging and podcasting with opensource technologies in Indo-Aryan and Dravidian langauges for computer novice."
+          subtitle = "Mutlilingual blog that explores opensource technologies for web development, blogging and podcasting in Indo-Aryan and Dravidian langauges."
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
           social = true
           # TODO - disclaimer (HTML format is supported)
-          disclaimer = "<span> We write about technologies only after getting some hands-on experience on them.<br>We do not own the codebases, please follow the respective owners' licenses and terms.<br>We do this for ❤️❤️ our mother tounge, a sponspored post will be cleared marked as such.</span>"
-        # Home page posts
+          disclaimer = "📣 Although all the codebases are opensource, please follow their respective terms and licenses ❤"
         [languages.en.params.home.posts]
           enable = true
           # special amount of posts in each home posts page
@@ -159,7 +158,7 @@ enableGitInfo = true
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = 'An initiative by Yayin AI Lab'
+    custom = '❤ our blog buy us a <a href="https://ko-fi.com/teamyayin"> <i class="fas fa-mug-hot"></i> </a>'
     # whether to show Hugo and theme info
     hugo = true
     # whether to show copyright info
@@ -314,7 +313,7 @@ enableGitInfo = true
     objectFit = false
 
 [author]
-  name = "Yayin AI Lab Pvt. Ltd."
+  name = "Yayin AI Labs Pvt. Ltd."
 
 # Sitemap config
 [sitemap]
