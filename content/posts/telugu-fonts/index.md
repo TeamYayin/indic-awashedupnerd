@@ -14,7 +14,9 @@ resources:
 timeToRead: "5"
 ---
 
-List of free and open sourced fonts for telugu scripts. To write text in these fonts we do not require to buy or install any other applications, you would only need to add telugu language on your Windows or MacOS Personal Computer or Mobile phone.<!--more--> If you are facing issues adding a new language on your device please follow the instructions posted [here](/posts/add-new-langauge/).
+List of free and open-sourced fonts for Telugu scripts. To use and install the below fonts, if required, you would only need to add the Telugu language on your Windows or macOS Personal Computer or Mobile phone.<!--more-->
+
+If you are facing issues adding a new language on your device, please follow the instructions posted [here](/posts/add-new-langauge/).
 
 ### Noto Sans
 
