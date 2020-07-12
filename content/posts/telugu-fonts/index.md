@@ -94,7 +94,7 @@ If you are facing issues adding a new language on your device, please follow the
 
 - Designed by: Ek Type
 
-- Available Styles: Five font weights say Regular 400, Medium, Semi-bold 600, Bold and Extra-bold are available.
+- Available Styles: Five font weights say Regular 400, Medium, Semi-bold 600, Bold and Extra-bold are available. Baloo2 font-family also has fonts for languages that follow the devanagari writing system, Gujarati, Gurumukhi and Tamil languages.
 
 - License: SIL Open Font License, Version 1.1
 
